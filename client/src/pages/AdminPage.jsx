@@ -175,8 +175,7 @@ export default function AdminPage({ onLogout }) {
       String(s.regno || '').toLowerCase().includes(query) ||
       (s.department && s.department.toLowerCase().includes(query)) ||
       (s.section && s.section.toLowerCase().includes(query)) ||
-      (s.mobile && String(s.mobile).toLowerCase().includes(query)) ||
-      (s.mobileNumber && String(s.mobileNumber).toLowerCase().includes(query));
+      (s.year && s.year.toLowerCase().includes(query));
     const matchesDept = selectedDepartment === 'all' || s.department === selectedDepartment;
     return matchesSearch && matchesDept;
   });
@@ -204,14 +203,14 @@ export default function AdminPage({ onLogout }) {
         alert('No attendance records match your current filter to export.');
         return;
       }
-      headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Mobile Number', 'Attendance Status', 'Check-in Time'];
+      headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Year', 'Attendance Status', 'Check-in Time'];
       rows = filteredStudents.map((s, index) => [
         index + 1,
         `"${String(s.name || '').replace(/"/g, '""')}"`,
         `"${String(s.regno || '').replace(/"/g, '""')}"`,
         `"${String(s.department || 'N/A').replace(/"/g, '""')}"`,
         `"${String(s.section || 'N/A').replace(/"/g, '""')}"`,
-        `"${String(s.mobile || s.mobileNumber || 'N/A').replace(/"/g, '""')}"`,
+        `"${String(s.year || 'N/A').replace(/"/g, '""')}"`,
         'PRESENT',
         `"${s.timestamp ? new Date(s.timestamp).toLocaleString().replace(/"/g, '""') : 'Recorded'}"`
       ]);
@@ -222,14 +221,14 @@ export default function AdminPage({ onLogout }) {
         alert('No present students recorded yet.');
         return;
       }
-      headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Mobile Number', 'Attendance Status', 'Check-in Time'];
+      headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Year', 'Attendance Status', 'Check-in Time'];
       rows = presentStudents.map((s, index) => [
         index + 1,
         `"${String(s.name || '').replace(/"/g, '""')}"`,
         `"${String(s.regno || '').replace(/"/g, '""')}"`,
         `"${String(s.department || 'N/A').replace(/"/g, '""')}"`,
         `"${String(s.section || 'N/A').replace(/"/g, '""')}"`,
-        `"${String(s.mobile || s.mobileNumber || 'N/A').replace(/"/g, '""')}"`,
+        `"${String(s.year || 'N/A').replace(/"/g, '""')}"`,
         'PRESENT',
         `"${s.timestamp ? new Date(s.timestamp).toLocaleString().replace(/"/g, '""') : 'Recorded'}"`
       ]);
@@ -241,20 +240,20 @@ export default function AdminPage({ onLogout }) {
           alert('No student records available.');
           return;
         }
-        headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Mobile Number', 'Attendance Status', 'Check-in Time'];
+        headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Year', 'Attendance Status', 'Check-in Time'];
         rows = presentStudents.map((s, index) => [
           index + 1,
           `"${String(s.name || '').replace(/"/g, '""')}"`,
           `"${String(s.regno || '').replace(/"/g, '""')}"`,
           `"${String(s.department || 'N/A').replace(/"/g, '""')}"`,
           `"${String(s.section || 'N/A').replace(/"/g, '""')}"`,
-          `"${String(s.mobile || s.mobileNumber || 'N/A').replace(/"/g, '""')}"`,
+          `"${String(s.year || 'N/A').replace(/"/g, '""')}"`,
           'PRESENT',
           `"${s.timestamp ? new Date(s.timestamp).toLocaleString().replace(/"/g, '""') : 'Recorded'}"`
         ]);
         recordCount = presentStudents.length;
       } else {
-        headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Mobile Number', 'Attendance Status', 'Check-in Time'];
+        headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Year', 'Attendance Status', 'Check-in Time'];
         rows = allStudents.map((s, index) => {
           const queryKey = String(s.regno).trim().toLowerCase();
           const isPresent = presentMap.has(queryKey);
@@ -266,7 +265,7 @@ export default function AdminPage({ onLogout }) {
             `"${String(s.regno || '').replace(/"/g, '""')}"`,
             `"${String(s.department || 'N/A').replace(/"/g, '""')}"`,
             `"${String(s.section || 'N/A').replace(/"/g, '""')}"`,
-            `"${String(s.mobile || s.mobileNumber || 'N/A').replace(/"/g, '""')}"`,
+            `"${String(s.year || 'N/A').replace(/"/g, '""')}"`,
             isPresent ? 'PRESENT' : 'ABSENT',
             `"${timeStr.replace(/"/g, '""')}"`
           ];
@@ -280,14 +279,14 @@ export default function AdminPage({ onLogout }) {
         alert('All registered students have marked attendance! No absentees.');
         return;
       }
-      headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Mobile Number', 'Attendance Status'];
+      headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Year', 'Attendance Status'];
       rows = absentStudents.map((s, index) => [
         index + 1,
         `"${String(s.name || '').replace(/"/g, '""')}"`,
         `"${String(s.regno || '').replace(/"/g, '""')}"`,
         `"${String(s.department || 'N/A').replace(/"/g, '""')}"`,
         `"${String(s.section || 'N/A').replace(/"/g, '""')}"`,
-        `"${String(s.mobile || s.mobileNumber || 'N/A').replace(/"/g, '""')}"`,
+        `"${String(s.year || 'N/A').replace(/"/g, '""')}"`,
         'ABSENT'
       ]);
       filename = `presencex_absent_students_${dateStr}.csv`;
@@ -322,7 +321,7 @@ export default function AdminPage({ onLogout }) {
       regno: s.regno,
       department: s.department || null,
       section: s.section || null,
-      mobile: s.mobile || s.mobileNumber || null,
+      year: s.year || null,
       timestamp: s.timestamp ? new Date(s.timestamp).toISOString() : null
     }));
 
@@ -733,7 +732,7 @@ export default function AdminPage({ onLogout }) {
                     <th>Registration No</th>
                     <th>Department</th>
                     <th>Section</th>
-                    <th>Mobile Number</th>
+                    <th>Year</th>
                     <th>Timestamp</th>
                   </tr>
                 </thead>
@@ -756,8 +755,8 @@ export default function AdminPage({ onLogout }) {
                       <td className="col-sec">
                         <span className="sec-pill-tag">{student.section || 'A'}</span>
                       </td>
-                      <td className="col-mobile">
-                        <span className="mobile-cell-text">{student.mobile || student.mobileNumber || '—'}</span>
+                      <td className="col-year">
+                        <span className="sec-pill-tag">{student.year || '—'}</span>
                       </td>
                       <td className="col-time font-mono">
                         {student.timestamp 

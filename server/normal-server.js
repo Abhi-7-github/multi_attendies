@@ -149,8 +149,7 @@ app.post('/api/verify', async (req, res) => {
           regno: student.regno,
           department: student.department || '',
           section: student.section || '',
-          mobile: student.mobile || student.mobileNumber || '',
-          mobileNumber: student.mobile || student.mobileNumber || '',
+          year: student.year || '',
         },
       });
     } else {
@@ -233,7 +232,7 @@ app.post('/api/presence', async (req, res) => {
       regno: student.regno,
       department: student.department || '',
       section: student.section || '',
-      mobile: student.mobile || student.mobileNumber || '',
+      year: student.year || '',
       timestamp: new Date().toISOString(),
     };
 
@@ -413,7 +412,7 @@ app.get(['/api/admin/export/csv', '/api/export-csv'], async (req, res) => {
     let rows = [];
 
     if (type === 'all') {
-      headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Mobile Number', 'Attendance Status', 'Check-in Timestamp'];
+      headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Year', 'Attendance Status', 'Check-in Timestamp'];
       rows = students.map((s, idx) => {
         const queryKey = String(s.regno).trim().toLowerCase();
         const isPresent = presentMap.has(queryKey);
@@ -425,13 +424,13 @@ app.get(['/api/admin/export/csv', '/api/export-csv'], async (req, res) => {
           `"${String(s.regno || '').replace(/"/g, '""')}"`,
           `"${String(s.department || 'N/A').replace(/"/g, '""')}"`,
           `"${String(s.section || 'N/A').replace(/"/g, '""')}"`,
-          `"${String(s.mobile || s.mobileNumber || 'N/A').replace(/"/g, '""')}"`,
+          `"${String(s.year || 'N/A').replace(/"/g, '""')}"`,
           isPresent ? 'PRESENT' : 'ABSENT',
           `"${timeStr.replace(/"/g, '""')}"`
         ];
       });
     } else if (type === 'absent') {
-      headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Mobile Number', 'Attendance Status'];
+      headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Year', 'Attendance Status'];
       const absentStudents = students.filter(s => !presentMap.has(String(s.regno).trim().toLowerCase()));
       rows = absentStudents.map((s, idx) => [
         idx + 1,
@@ -439,19 +438,19 @@ app.get(['/api/admin/export/csv', '/api/export-csv'], async (req, res) => {
         `"${String(s.regno || '').replace(/"/g, '""')}"`,
         `"${String(s.department || 'N/A').replace(/"/g, '""')}"`,
         `"${String(s.section || 'N/A').replace(/"/g, '""')}"`,
-        `"${String(s.mobile || s.mobileNumber || 'N/A').replace(/"/g, '""')}"`,
+        `"${String(s.year || 'N/A').replace(/"/g, '""')}"`,
         'ABSENT'
       ]);
     } else {
       // Default: present students
-      headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Mobile Number', 'Attendance Status', 'Check-in Timestamp'];
+      headers = ['S.No', 'Student Name', 'Registration Number', 'Department', 'Section', 'Year', 'Attendance Status', 'Check-in Timestamp'];
       rows = presentStudents.map((s, idx) => [
         idx + 1,
         `"${String(s.name || '').replace(/"/g, '""')}"`,
         `"${String(s.regno || '').replace(/"/g, '""')}"`,
         `"${String(s.department || 'N/A').replace(/"/g, '""')}"`,
         `"${String(s.section || 'N/A').replace(/"/g, '""')}"`,
-        `"${String(s.mobile || s.mobileNumber || 'N/A').replace(/"/g, '""')}"`,
+        `"${String(s.year || 'N/A').replace(/"/g, '""')}"`,
         'PRESENT',
         `"${s.timestamp ? new Date(s.timestamp).toLocaleString().replace(/"/g, '""') : 'Recorded'}"`
       ]);

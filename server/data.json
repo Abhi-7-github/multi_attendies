@@ -1,2060 +1,1193 @@
 [
   {
-    "name": "K. Hemanth",
-    "regno": "99240040969",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840040969"
-  },
-  {
-    "name": "KONDOJU NEERAJ BHARADWAJ",
-    "regno": "99230040621",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9841040621"
-  },
-  {
-    "name": "Y SUMANTH REDDY",
-    "regno": "9924005001",
-    "department": "IT",
-    "section": "C",
-    "mobile": "9848005001"
-  },
-  {
-    "name": "AKSHAY RAJKUMAR J",
-    "regno": "99240040359",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866040359"
-  },
-  {
-    "name": "O. Govardhan Raju",
-    "regno": "99230040990",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9876040990"
-  },
-  {
-    "name": "Ch. Vijay Avinash",
-    "regno": "99230040961",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9885040961"
-  },
-  {
-    "name": "N. PeddaPeeraiah",
-    "regno": "99230040988",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9908040988"
-  },
-  {
-    "name": "P. Gurunath Reddy",
-    "regno": "99230040953",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949040953"
-  },
-  {
-    "name": "MARIMESI MANIDEEP",
-    "regno": "99240040285",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840040285"
-  },
-  {
-    "name": "Telagamsetti Posi Sai Siddhartha",
-    "regno": "99240040284",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9841040284"
-  },
-  {
-    "name": "Maddala Surya Chandra Venkata Mohan",
-    "regno": "99240040278",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848040278"
-  },
-  {
-    "name": "Kurapati Manohar",
-    "regno": "99240040274",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866040274"
-  },
-  {
-    "name": "GEDDAM PAVAN KUMAR",
-    "regno": "99240040925",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9876040925"
-  },
-  {
-    "name": "MUDIYAM JAGADESWARA REDDY",
-    "regno": "99240041305",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9885041305"
-  },
-  {
-    "name": "JUJJAVARAPU RISHYENDRA",
-    "regno": "99240040066",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9908040066"
-  },
-  {
-    "name": "GAVVALA OMSAI",
-    "regno": "99240040927",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949040927"
-  },
-  {
-    "name": "K Yaswanth Kumar Siva Nageswara Rao",
-    "regno": "99230040598",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840040598"
-  },
-  {
-    "name": "J Akhil Venkata Satya Karthik",
-    "regno": "99230040581",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9841040581"
-  },
-  {
-    "name": "M. Naga Venkat",
-    "regno": "9923008006",
-    "department": "ECE",
-    "section": "C",
-    "mobile": "9848008006"
-  },
-  {
-    "name": "NUNNA RAM CHANDRA NAIDU",
-    "regno": "99230040385",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866040385"
-  },
-  {
-    "name": "K. BHARGAV SRI ANJANEYA",
-    "regno": "9923005099",
-    "department": "IT",
-    "section": "A",
-    "mobile": "9876005099"
-  },
-  {
-    "name": "G. BHARAT KUMAR",
-    "regno": "9923005079",
-    "department": "IT",
-    "section": "B",
-    "mobile": "9885005079"
-  },
-  {
-    "name": "Y. MANIKANTA",
-    "regno": "9923004819",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9908004819"
-  },
-  {
-    "name": "N. MUNITEJ REDDY",
-    "regno": "9923005111",
-    "department": "IT",
-    "section": "D",
-    "mobile": "9949005111"
-  },
-  {
-    "name": "Kondapalli Palguna",
-    "regno": "99240040011",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840040011"
-  },
-  {
-    "name": "Ravula Venkata Sriram",
-    "regno": "99240041133",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9841041133"
-  },
-  {
-    "name": "Vemana Pavan Kumar",
-    "regno": "99240041198",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848041198"
-  },
-  {
-    "name": "Naramsetty Kiran",
-    "regno": "99240040737",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866040737"
-  },
-  {
-    "name": "KANDULA Lokesh Sai Manikanta",
-    "regno": "9923008024",
-    "department": "ECE",
-    "section": "A",
-    "mobile": "9876008024"
-  },
-  {
-    "name": "Sandadi Navaneswar Reddy",
-    "regno": "9923008034",
-    "department": "ECE",
-    "section": "B",
-    "mobile": "9885008034"
-  },
-  {
-    "name": "Raganagari Amareshwar Reddy",
-    "regno": "9923008029",
-    "department": "ECE",
-    "section": "C",
-    "mobile": "9908008029"
-  },
-  {
-    "name": "Vemireddy Ram Prashantha Reddy",
-    "regno": "9923008012",
+    "name": "THALLA PRALAVI",
+    "regno": "9924005242",
     "department": "ECE",
     "section": "D",
-    "mobile": "9949008012"
+    "year": "3rd Year"
+  },
+  
+  {
+    "name": "Anchal Singh",
+    "regno": "98250040004",
+    "department": "CSE/Ai&Ml",
+    "section": "24S20",
+    "year": "3rd Year"
   },
   {
-    "name": "P. Hari Suriya",
-    "regno": "9924017043",
-    "department": "AI & DS",
-    "section": "A",
-    "mobile": "9840017043"
+    "name": "ABUBAKRA SHIDDIQUE",
+    "regno": "99240040008",
+    "department": "CSE",
+    "section": "24S01",
+    "year": "3rd Year"
   },
   {
-    "name": "V. Madesh Kumar",
-    "regno": "9924017071",
-    "department": "AI & DS",
+    "name": "Siva Charan Goud Ediga",
+    "regno": "99240040214",
+    "department": "CSE",
+    "section": "24S20",
+    "year": "3rd Year"
+  },
+  {
+    "name": "A.Bhargav",
+    "regno": "99240040370",
+    "department": "CSE(Aiml)",
+    "section": "24S04",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Osuri Charitha",
+    "regno": "99240041087",
+    "department": "CSE AIML",
+    "section": "S13",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Duvada Dhanalakshmi",
+    "regno": "99240041019",
+    "department": "CSE",
+    "section": "24S12",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Shaik khadarvali",
+    "regno": "99240040773",
+    "department": "Cse",
+    "section": "S09",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Shaik noor mahammed",
+    "regno": "99240040753",
+    "department": "BTech CSE",
+    "section": "24S09",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Mogadasu Bala syam",
+    "regno": "99240041304",
+    "department": "CSE DS",
+    "section": "S19",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Utukuru Sasi kumar",
+    "regno": "99240040466",
+    "department": "Cse",
+    "section": "S05",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Gujjala Yaswanth Reddy",
+    "regno": "99240041406",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "MOHAMMAD VASEEM AKRAM",
+    "regno": "99240040636",
+    "department": "CSE AIML",
+    "section": "S07",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Shruthi.V",
+    "regno": "99240040166",
+    "department": "Btech CSE",
+    "section": "24S02",
+    "year": "3rd Year"
+  },
+  {
+    "name": "RAYAM SONITHA",
+    "regno": "99240041151",
+    "department": "CSE(AIML)",
+    "section": "24S14",
+    "year": "3rd Year"
+  },
+  {
+    "name": "SUJITHRAJAN A K",
+    "regno": "9924005007",
+    "department": "Ece",
     "section": "B",
-    "mobile": "9841017071"
+    "year": "3rd Year"
   },
   {
-    "name": "Praveen Jesu S",
-    "regno": "9924017103",
-    "department": "AI & DS",
-    "section": "C",
-    "mobile": "9848017103"
+    "name": "POLIMETLA SAMBABU",
+    "regno": "99240041394",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
   },
   {
-    "name": "V. Pathma Kumar",
-    "regno": "9924017099",
-    "department": "AI & DS",
-    "section": "D",
-    "mobile": "9866017099"
-  },
-  {
-    "name": "V. Bathmaavathi",
-    "regno": "9924018125",
-    "department": "AI & ML",
+    "name": "Neranjan R",
+    "regno": "99250040845",
+    "department": "Cse kalvium",
     "section": "A",
-    "mobile": "9876018125"
+    "year": "2nd Year"
   },
   {
-    "name": "K. Deepak Manikandan",
-    "regno": "9924018022",
-    "department": "AI & ML",
+    "name": "V Dharani",
+    "regno": "99250040612",
+    "department": "CSE(AI ML)",
+    "section": "25S08",
+    "year": "2nd Year"
+  },
+  {
+    "name": "S Shanmuk",
+    "regno": "9924000804",
+    "department": "CSE",
+    "section": "24S10",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Kommu Prudvi yadav",
+    "regno": "99240040614",
+    "department": "CSE-AIML",
+    "section": "S07",
+    "year": "3rd Year"
+  },
+  {
+    "name": "KATHRAM VIJAYA SIMHA REDDY",
+    "regno": "99240041409",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "K.Nandini",
+    "regno": "99250040179",
+    "department": "CSE AIML",
+    "section": "2025S02",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Bandaru Lakshmi Tejaswi",
+    "regno": "99250040860",
+    "department": "Cse",
+    "section": "A",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Megha R",
+    "regno": "99240041397",
+    "department": "BTech CSE (software product engineering)",
     "section": "B",
-    "mobile": "9885018022"
+    "year": "3rd Year"
   },
   {
-    "name": "Dinesh K",
-    "regno": "9924018024",
-    "department": "AI & ML",
-    "section": "C",
-    "mobile": "9908018024"
-  },
-  {
-    "name": "K. Divya",
-    "regno": "9924018025",
-    "department": "AI & ML",
-    "section": "D",
-    "mobile": "9949018025"
-  },
-  {
-    "name": "S. KESHORE KUMAR",
-    "regno": "9924017059",
-    "department": "AI & DS",
+    "name": "Paleti Rishika Jasper",
+    "regno": "99250040865",
+    "department": "Cse kalvium",
     "section": "A",
-    "mobile": "9840017059"
+    "year": "2nd Year"
   },
   {
-    "name": "S. AJAY HARI KRISHNAN",
-    "regno": "9924017010",
-    "department": "AI & DS",
-    "section": "B",
-    "mobile": "9841017010"
+    "name": "Thanneeru Santhosh",
+    "regno": "9924005253",
+    "department": "ECE",
+    "section": "E",
+    "year": "3rd Year"
   },
   {
-    "name": "R. ANANTHAPADMANATHAN",
-    "regno": "9924017012",
-    "department": "AI & DS",
-    "section": "C",
-    "mobile": "9848017012"
-  },
-  {
-    "name": "T. SHARAN",
-    "regno": "9924017127",
-    "department": "AI & DS",
-    "section": "D",
-    "mobile": "9866017127"
-  },
-  {
-    "name": "T. Gunalini",
-    "regno": "9924019019",
-    "department": "IoT",
-    "section": "A",
-    "mobile": "9876019019"
-  },
-  {
-    "name": "M. Jeyasurya",
-    "regno": "9924019073",
-    "department": "IoT",
-    "section": "B",
-    "mobile": "9885019073"
-  },
-  {
-    "name": "R. Vikash",
-    "regno": "9924019076",
-    "department": "IoT",
-    "section": "C",
-    "mobile": "9908019076"
-  },
-  {
-    "name": "G. Jegan",
-    "regno": "9924019026",
-    "department": "IoT",
-    "section": "D",
-    "mobile": "9949019026"
-  },
-  {
-    "name": "Azhar Mohi ud din War",
-    "regno": "9924001086",
-    "department": "CIVIL",
-    "section": "A",
-    "mobile": "9840001086"
-  },
-  {
-    "name": "M.B Muna Raisal",
-    "regno": "9924001085",
-    "department": "CIVIL",
-    "section": "B",
-    "mobile": "9841001085"
-  },
-  {
-    "name": "Nicepreet Kour",
-    "regno": "9924011053",
-    "department": "MECH",
-    "section": "C",
-    "mobile": "9848011053"
-  },
-  {
-    "name": "Zaina Shanaz",
-    "regno": "9924011049",
-    "department": "MECH",
-    "section": "D",
-    "mobile": "9866011049"
-  },
-  {
-    "name": "K. NAGA KARTHIK",
-    "regno": "9924005271",
-    "department": "IT",
-    "section": "A",
-    "mobile": "9876005271"
-  },
-  {
-    "name": "M. JASWANTH",
-    "regno": "9924005408",
-    "department": "IT",
-    "section": "B",
-    "mobile": "9885005408"
-  },
-  {
-    "name": "K.M.S.S. GANDHI",
-    "regno": "9924005428",
-    "department": "IT",
-    "section": "C",
-    "mobile": "9908005428"
-  },
-  {
-    "name": "S. SANDEEP",
-    "regno": "9924005199",
-    "department": "IT",
-    "section": "D",
-    "mobile": "9949005199"
-  },
-  {
-    "name": "K BHASKAR BHANU VAMSI",
-    "regno": "9924005288",
-    "department": "IT",
-    "section": "A",
-    "mobile": "9840005288"
-  },
-  {
-    "name": "P SRIRAM SAI PRASAD",
-    "regno": "9924005134",
-    "department": "IT",
-    "section": "B",
-    "mobile": "9841005134"
-  },
-  {
-    "name": "K SUSANTH",
-    "regno": "9924005434",
-    "department": "IT",
-    "section": "C",
-    "mobile": "9848005434"
-  },
-  {
-    "name": "P NAVADEEP",
-    "regno": "99240041244",
+    "name": "Botcha Lokesh",
+    "regno": "99240040395",
     "department": "CSE",
-    "section": "D",
-    "mobile": "9866041244"
+    "section": "S04",
+    "year": "3rd Year"
   },
   {
-    "name": "Jayakrishnan S",
-    "regno": "9924018039",
-    "department": "AI & ML",
-    "section": "A",
-    "mobile": "9876018039"
-  },
-  {
-    "name": "A.vyshali",
-    "regno": "9924018099",
-    "department": "AI & ML",
-    "section": "B",
-    "mobile": "9885018099"
-  },
-  {
-    "name": "Gayathri J",
-    "regno": "9924001029",
-    "department": "CIVIL",
-    "section": "C",
-    "mobile": "9908001029"
-  },
-  {
-    "name": "P hariharan",
-    "regno": "9924018031",
-    "department": "AI & ML",
-    "section": "D",
-    "mobile": "9949018031"
-  },
-  {
-    "name": "Gannamani Lavya Sri",
-    "regno": "99240040232",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840040232"
-  },
-  {
-    "name": "Yash kailas mane",
-    "regno": "99240040654",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9841040654"
-  },
-  {
-    "name": "Gillela Reddy Yeshaswini",
-    "regno": "99240041256",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848041256"
-  },
-  {
-    "name": "Rakesh Davuluri",
-    "regno": "99240041238",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866041238"
-  },
-  {
-    "name": "CHALLA VARUN KUMAR",
-    "regno": "99240040874",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9876040874"
-  },
-  {
-    "name": "CHENNURU NIKHIL KUMAR",
-    "regno": "99240040211",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9885040211"
-  },
-  {
-    "name": "DUDUKELA DHARMA TEJA",
-    "regno": "99240040899",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9908040899"
-  },
-  {
-    "name": "KAMALA RISHIK",
-    "regno": "99240040966",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949040966"
-  },
-  {
-    "name": "MANKINA GOPICHAND",
-    "regno": "99240041032",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840041032"
-  },
-  {
-    "name": "M.Adhithya Ram",
-    "regno": "99240041030",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9841041030"
-  },
-  {
-    "name": "S.D.B.Sanjeev",
-    "regno": "99240041036",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848041036"
-  },
-  {
-    "name": "MATTAPARTHI VEERA VENKATA SRINIVAS",
-    "regno": "99240041024",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866041024"
-  },
-  {
-    "name": "ABHIRAM SURAPU",
-    "regno": "99230040776",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9876040776"
-  },
-  {
-    "name": "VENKATA HEMADRI MAVILLA",
-    "regno": "99230040372",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9885040372"
-  },
-  {
-    "name": "SRIRAM TIMMISETTY",
-    "regno": "99230040787",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9908040787"
-  },
-  {
-    "name": "KRISHNA BHARGAV PINNAMANENI",
-    "regno": "99230040848",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949040848"
-  },
-  {
-    "name": "L. BHARGAV SAI",
-    "regno": "99230040635",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840040635"
-  },
-  {
-    "name": "K. SHYAM SUNDER",
-    "regno": "9923008038",
+    "name": "Kothapalli pavan kumar",
+    "regno": "9924005252",
     "department": "ECE",
     "section": "B",
-    "mobile": "9841008038"
+    "year": "3rd Year"
   },
   {
-    "name": "Y.HARSHIT",
-    "regno": "99230040462",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848040462"
+    "name": "KADAVAKALLU VIKAS",
+    "regno": "99240040251",
+    "department": "Cse-Aiml",
+    "section": "24SO2",
+    "year": "3rd Year"
   },
   {
-    "name": "K.RAM CHARAN",
-    "regno": "9924005111",
+    "name": "C.manickam",
+    "regno": "9925051044",
+    "department": "B.tach(ai and ds)",
+    "section": "25S15",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Syamala Swetha",
+    "regno": "9924008131",
     "department": "IT",
-    "section": "D",
-    "mobile": "9866005111"
+    "section": "B",
+    "year": "3rd Year"
   },
   {
-    "name": "VUDDANDAIAHGARI LOHITH",
-    "regno": "9923008013",
-    "department": "ECE",
-    "section": "A",
-    "mobile": "9876008013"
+    "name": "T.VISHNUVARDHAN REDDY",
+    "regno": "9924008086",
+    "department": "IT",
+    "section": "B",
+    "year": "3rd Year"
   },
   {
-    "name": "K.Deva datta sai",
+    "name": "G.Upendra reddy",
+    "regno": "99240040229",
+    "department": "CSE",
+    "section": "S02",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Padarthi Madhava Gandhi",
+    "regno": "99240041088",
+    "department": "CSE AIML",
+    "section": "24S13",
+    "year": "3rd Year"
+  },
+  {
+    "name": "A. Manoj Kumar Reddy",
+    "regno": "99240040366",
+    "department": "Cse",
+    "section": "S04",
+    "year": "3rd Year"
+  },
+  {
+    "name": "KOTIPALLI NAGA SATYA SRI TEJASWINI",
+    "regno": "99240040588",
+    "department": "CSE(AI&ML)",
+    "section": "24S07",
+    "year": "3rd Year"
+  },
+  {
+    "name": "BONTHA SAI SANTHOSH REDDY",
+    "regno": "99240041287",
+    "department": "CSE",
+    "section": "24S19",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Deva Datta Sai Kolli",
     "regno": "9923008025",
-    "department": "ECE",
-    "section": "B",
-    "mobile": "9885008025"
+    "department": "Information Technology",
+    "section": "IT SECTION A",
+    "year": "4th Year"
   },
   {
-    "name": "Lingala Seshanth Reddy",
-    "regno": "99230040126",
+    "name": "Devireddy Gari Sai Sravanthi",
+    "regno": "99250040180",
+    "department": "CSE(AIML)",
+    "section": "S02",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Gandla Hari Prasad",
+    "regno": "99230040542",
     "department": "CSE",
-    "section": "C",
-    "mobile": "9908040126"
+    "section": "S07",
+    "year": "4th Year"
   },
   {
-    "name": "NUSHI purna Chandra reddy",
-    "regno": "99230040698",
+    "name": "B. Satish Kumar reddy",
+    "regno": "99230040487",
+    "department": "Cse",
+    "section": "S06",
+    "year": "4th Year"
+  },
+  {
+    "name": "A.Annie Nesa Harshini",
+    "regno": "99240040182",
     "department": "CSE",
-    "section": "D",
-    "mobile": "9949040698"
+    "section": "24S02",
+    "year": "3rd Year"
   },
   {
-    "name": "Kokkera Srinivas",
-    "regno": "9923005096",
+    "name": "Katikala Uma Venkata Ankamma Rao",
+    "regno": "9924008029",
     "department": "IT",
     "section": "A",
-    "mobile": "9840005096"
+    "year": "3rd Year"
   },
   {
-    "name": "Dronadhula Venkata Siva Manikanta",
-    "regno": "9824005003",
-    "department": "IT",
+    "name": "V.Vinuthna",
+    "regno": "99250040624",
+    "department": "CSE(AIML)",
+    "section": "25S08",
+    "year": "2nd Year"
+  },
+  {
+    "name": "KUMMARI GOUTHAM",
+    "regno": "99240040592",
+    "department": "CSE (AI&ML)",
+    "section": "S07",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Sk Nagur babu",
+    "regno": "9924005384",
+    "department": "ECE",
     "section": "B",
-    "mobile": "9841005003"
+    "year": "3rd Year"
   },
   {
-    "name": "Bommu Gowtham Sai Reddy",
-    "regno": "9923005065",
+    "name": "SATTARU YASWANTH YADAV",
+    "regno": "99240040156",
+    "department": "CSE",
+    "section": "24S02",
+    "year": "3rd Year"
+  },
+  {
+    "name": "DIYYA VAMSI",
+    "regno": "9924005237",
+    "department": "ECE",
+    "section": "A",
+    "year": "3rd Year"
+  },
+  {
+    "name": "K.shyam sunder",
+    "regno": "9923008038",
     "department": "IT",
-    "section": "C",
-    "mobile": "9848005065"
+    "section": "A",
+    "year": "4th Year"
   },
   {
-    "name": "Pulla Siddardha",
-    "regno": "9923005122",
-    "department": "IT",
-    "section": "D",
-    "mobile": "9866005122"
+    "name": "K.Surya Balaji",
+    "regno": "9924017140",
+    "department": "BCA",
+    "section": "A",
+    "year": "3rd Year"
   },
   {
-    "name": "P.Rama Krishna Prasad",
+    "name": "Pula Mythili",
+    "regno": "99250040603",
+    "department": "CSE(AI&ML)",
+    "section": "25S08",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Santimalla Lakshmidhar Reddy",
+    "regno": "99240041393",
+    "department": "Cse (spe)",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Kampilla sumanth",
+    "regno": "99230040931",
+    "department": "Cse",
+    "section": "S11",
+    "year": "4th Year"
+  },
+  {
+    "name": "DEVANDLA YUVIKA",
+    "regno": "99240040883",
+    "department": "CSE (AIML)",
+    "section": "24S11",
+    "year": "3rd Year"
+  },
+  {
+    "name": "VEGINATI MANIKANTA",
+    "regno": "99240040567",
+    "department": "CSE (AIML)",
+    "section": "24SO6",
+    "year": "3rd Year"
+  },
+  {
+    "name": "SUBBARA INDUJA",
+    "regno": "99240040901",
+    "department": "Cse",
+    "section": "24S11",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Duddela Siva Sankara Reddy",
+    "regno": "9924008104",
+    "department": "Information technology",
+    "section": "B",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Mekala Arun",
+    "regno": "99230040668",
+    "department": "CSE",
+    "section": "S09",
+    "year": "4th Year"
+  },
+  {
+    "name": "PALADUGU RAMA KRISHNA PRASAD",
     "regno": "99240041052",
+    "department": "CSE(Ai&ML)",
+    "section": "S13",
+    "year": "3rd Year"
+  },
+  {
+    "name": "thummala kumarreddy",
+    "regno": "99240014262",
+    "department": "CSE(Cyber Security )",
+    "section": "24S16",
+    "year": "3rd Year"
+  },
+  {
+    "name": "K Bhaskar bhanu vamsi",
+    "regno": "9924005288",
+    "department": "Ece",
+    "section": "G",
+    "year": "3rd Year"
+  },
+  {
+    "name": "PRAJA BABU",
+    "regno": "99240040177",
+    "department": "B.Tech (CSE)",
+    "section": "S02",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Poluru Vivek",
+    "regno": "99240041271",
     "department": "CSE",
-    "section": "A",
-    "mobile": "9876041052"
+    "section": "24S16",
+    "year": "3rd Year"
   },
   {
-    "name": "Marneni Naveen",
-    "regno": "99240041051",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9885041051"
+    "name": "Pallapothu Surendra manikumar",
+    "regno": "99230040705",
+    "department": "Cse",
+    "section": "S09",
+    "year": "4th Year"
   },
   {
-    "name": "V Venkat Rao",
-    "regno": "99240040930",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9908040930"
-  },
-  {
-    "name": "V Ajay Kumar",
-    "regno": "99240040620",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949040620"
-  },
-  {
-    "name": "MANNEPALLI HARSHA PRIYA",
-    "regno": "99240041023",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840041023"
-  },
-  {
-    "name": "KURAM HEMALATHA",
-    "regno": "99240041008",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9841041008"
-  },
-  {
-    "name": "LAKKIREDDY HARSHITHA",
-    "regno": "99240041015",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848041015"
-  },
-  {
-    "name": "THATI SKANDHA MALLIKARJUNA",
-    "regno": "99230040176",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866040176"
-  },
-  {
-    "name": "C Sindhu",
-    "regno": "99240040807",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9876040807"
-  },
-  {
-    "name": "Rajesh Devaravula",
-    "regno": "99240040897",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9885040897"
-  },
-  {
-    "name": "Manigala Mahitha",
-    "regno": "99240041229",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9908041229"
-  },
-  {
-    "name": "Bandameeda Vijaya Sankar",
-    "regno": "99240040390",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949040390"
-  },
-  {
-    "name": "M.JeevithaSakthi",
-    "regno": "9924018040",
-    "department": "AI & ML",
-    "section": "A",
-    "mobile": "9840018040"
-  },
-  {
-    "name": "K.Blessing",
-    "regno": "9924018018",
-    "department": "AI & ML",
-    "section": "B",
-    "mobile": "9841018018"
-  },
-  {
-    "name": "P.Abishek",
-    "regno": "9924018002",
-    "department": "AI & ML",
-    "section": "C",
-    "mobile": "9848018002"
-  },
-  {
-    "name": "M.Hariharan",
-    "regno": "9924018030",
-    "department": "AI & ML",
-    "section": "D",
-    "mobile": "9866018030"
-  },
-  {
-    "name": "Seelaboina Satyanarayana",
-    "regno": "9924005359",
-    "department": "IT",
-    "section": "A",
-    "mobile": "9876005359"
-  },
-  {
-    "name": "T ravi teja",
-    "regno": "9924005358",
-    "department": "IT",
-    "section": "B",
-    "mobile": "9885005358"
-  },
-  {
-    "name": "pd.usman",
-    "regno": "9924005410",
-    "department": "IT",
-    "section": "C",
-    "mobile": "9908005410"
-  },
-  {
-    "name": "Alam Akash",
-    "regno": "99250040036",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949040036"
-  },
-  {
-    "name": "Anusuya.A",
-    "regno": "9923005187",
-    "department": "IT",
-    "section": "A",
-    "mobile": "9840005187"
-  },
-  {
-    "name": "Divyadharshini.D",
-    "regno": "9923005238",
-    "department": "IT",
-    "section": "B",
-    "mobile": "9841005238"
-  },
-  {
-    "name": "Abarna.S",
-    "regno": "9923005233",
-    "department": "IT",
-    "section": "C",
-    "mobile": "9848005233"
-  },
-  {
-    "name": "Allabakash Mohammed sadiq",
-    "regno": "99240040813",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866040813"
-  },
-  {
-    "name": "ANJINEYULU GARI SREENIVASULU",
-    "regno": "99240040814",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9876040814"
-  },
-  {
-    "name": "Pujari punith kumar",
-    "regno": "99240040724",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9885040724"
-  },
-  {
-    "name": "PUVVADA GURU BRAHMAM",
-    "regno": "99240040723",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9908040723"
-  },
-  {
-    "name": "BATHALA AMARENDRA KUMAR",
-    "regno": "9825037005",
-    "department": "IT",
-    "section": "D",
-    "mobile": "9949037005"
-  },
-  {
-    "name": "SAGAR KANTHIBASAPPA YATNATTI",
-    "regno": "9825037001",
-    "department": "CIVIL",
-    "section": "A",
-    "mobile": "9840037001"
-  },
-  {
-    "name": "Gunja Mahesh",
-    "regno": "9825037008",
+    "name": "Arigala Dinesh",
+    "regno": "9924005202",
     "department": "ECE",
-    "section": "B",
-    "mobile": "9841037008"
+    "section": "F",
+    "year": "3rd Year"
   },
   {
-    "name": "Ramapuram Sailkshmi",
-    "regno": "9825037003",
-    "department": "Cyber Security",
-    "section": "C",
-    "mobile": "9848037003"
+    "name": "RAVI RANJAN",
+    "regno": "9924004056",
+    "department": "Btech Cse(Aiml)",
+    "section": "24S02",
+    "year": "3rd Year"
   },
   {
-    "name": "Sam Dennis",
-    "regno": "9924017022",
-    "department": "AI & DS",
-    "section": "D",
-    "mobile": "9866017022"
-  },
-  {
-    "name": "Surya prakash",
-    "regno": "9924017141",
-    "department": "AI & DS",
-    "section": "A",
-    "mobile": "9876017141"
-  },
-  {
-    "name": "Raja surya",
-    "regno": "9924017109",
-    "department": "AI & DS",
-    "section": "B",
-    "mobile": "9885017109"
-  },
-  {
-    "name": "Santhosh",
-    "regno": "9924017121",
-    "department": "AI & DS",
-    "section": "C",
-    "mobile": "9908017121"
-  },
-  {
-    "name": "V RAJIV MOUNITH",
-    "regno": "99240041139",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949041139"
-  },
-  {
-    "name": "Sai Balaji B",
-    "regno": "99240041146",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840041146"
-  },
-  {
-    "name": "RANGAMREDDY MAHENDRA REDDY",
-    "regno": "99240041155",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9841041155"
-  },
-  {
-    "name": "Kota Pusphak Chowdary",
-    "regno": "99240040598",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848040598"
-  },
-  {
-    "name": "Vikas Kannan",
-    "regno": "9923008143",
-    "department": "ECE",
-    "section": "D",
-    "mobile": "9866008143"
-  },
-  {
-    "name": "Gaushik",
-    "regno": "9923008125",
-    "department": "ECE",
-    "section": "A",
-    "mobile": "9876008125"
-  },
-  {
-    "name": "Yogeshwaran",
-    "regno": "9923008121",
-    "department": "ECE",
-    "section": "B",
-    "mobile": "9885008121"
-  },
-  {
-    "name": "Santhosh Kumar",
-    "regno": "9923008125",
-    "department": "ECE",
-    "section": "C",
-    "mobile": "9908008125"
-  },
-  {
-    "name": "GEVINI NAVADEEP",
-    "regno": "99240040908",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949040908"
-  },
-  {
-    "name": "MADDELA BHARATH",
-    "regno": "9240041001",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840041001"
-  },
-  {
-    "name": "SOBANALA PRASANTH",
-    "regno": "9924005157",
+    "name": "KOTYADA KARTHIKEYA",
+    "regno": "9924008032",
     "department": "IT",
-    "section": "B",
-    "mobile": "9841005157"
+    "section": "A",
+    "year": "3rd Year"
   },
   {
-    "name": "P Roopa",
-    "regno": "99240041314",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848041314"
-  },
-  {
-    "name": "Pooja R K",
-    "regno": "9923011011",
+    "name": "REDDI SUDHEER",
+    "regno": "9924009045",
     "department": "MECH",
-    "section": "D",
-    "mobile": "9866011011"
-  },
-  {
-    "name": "Jayakumaran P R",
-    "regno": "99230041185",
-    "department": "CSE",
     "section": "A",
-    "mobile": "9876041185"
+    "year": "3rd Year"
   },
   {
-    "name": "Vishvanth S",
-    "regno": "99230041107",
+    "name": "YARRAMALLA BHAVENDRA KUMAR",
+    "regno": "99240041399",
     "department": "CSE",
-    "section": "B",
-    "mobile": "9885041107"
+    "section": "KALVIUM",
+    "year": "3rd Year"
   },
   {
-    "name": "Jeyashankar",
-    "regno": "99230041115",
+    "name": "NUKALA YASWANTH VENKATA SUBRAHMANYAM",
+    "regno": "99240040321",
     "department": "CSE",
-    "section": "C",
-    "mobile": "9908041115"
+    "section": "S03",
+    "year": "3rd Year"
   },
   {
-    "name": "V.ajayaraja",
-    "regno": "9924018004",
+    "name": "P.YESWANTH",
+    "regno": "99250040582",
     "department": "CSE",
-    "section": "D",
-    "mobile": "9949018004"
+    "section": "S07",
+    "year": "2nd Year"
   },
   {
-    "name": "P.Esakkimuthu",
-    "regno": "9924018026",
-    "department": "AI & ML",
-    "section": "A",
-    "mobile": "9840018026"
-  },
-  {
-    "name": "K.Kavirajan",
-    "regno": "9924018043",
-    "department": "AI & ML",
-    "section": "B",
-    "mobile": "9841018043"
-  },
-  {
-    "name": "D.Mahalingam",
-    "regno": "9924018048",
-    "department": "AI & ML",
-    "section": "C",
-    "mobile": "9848018048"
-  },
-  {
-    "name": "S.devi",
-    "regno": "9924017030",
-    "department": "AI & DS",
-    "section": "D",
-    "mobile": "9866017030"
-  },
-  {
-    "name": "M.srirama suvetha",
-    "regno": "9924017136",
-    "department": "AI & DS",
-    "section": "A",
-    "mobile": "9876017136"
-  },
-  {
-    "name": "E.divya",
-    "regno": "9924017033",
-    "department": "AI & DS",
-    "section": "B",
-    "mobile": "9885017033"
-  },
-  {
-    "name": "J.P Shenbaga devi",
-    "regno": "9924017128",
-    "department": "AI & DS",
-    "section": "C",
-    "mobile": "9908017128"
-  },
-  {
-    "name": "Umayaraja M",
-    "regno": "9924017145",
-    "department": "AI & DS",
-    "section": "D",
-    "mobile": "9949017145"
-  },
-  {
-    "name": "Mohanapriyan v",
-    "regno": "9924017081",
-    "department": "AI & DS",
-    "section": "A",
-    "mobile": "9840017081"
-  },
-  {
-    "name": "Santhosh A",
-    "regno": "9924017120",
-    "department": "AI & DS",
-    "section": "B",
-    "mobile": "9841017120"
-  },
-  {
-    "name": "Vinoth r",
-    "regno": "9924017158",
-    "department": "AI & DS",
-    "section": "C",
-    "mobile": "9848017158"
-  },
-  {
-    "name": "Nikhil Sai Kenguri",
-    "regno": "99240040748",
+    "name": "P.AKSHAY",
+    "regno": "99250040532",
     "department": "CSE",
-    "section": "D",
-    "mobile": "9866040748"
+    "section": "S07",
+    "year": "2nd Year"
   },
   {
-    "name": "Gudipati Balaji",
-    "regno": "99240040505",
+    "name": "P.VENKATA ROHITH",
+    "regno": "99250040506",
     "department": "CSE",
-    "section": "A",
-    "mobile": "9876040505"
+    "section": "S06",
+    "year": "2nd Year"
   },
   {
-    "name": "Yeemireddy Kowshik Kumar Reddy",
-    "regno": "99240040758",
+    "name": "KATTA NITISH KUMAR",
+    "regno": "99250040083",
     "department": "CSE",
-    "section": "B",
-    "mobile": "9885040758"
+    "section": "S01",
+    "year": "2nd Year"
   },
   {
-    "name": "Gulla Navadeep",
-    "regno": "99240040510",
+    "name": "B SUSWANTH",
+    "regno": "99250040059",
     "department": "CSE",
-    "section": "C",
-    "mobile": "9908040510"
+    "section": "S01",
+    "year": "2nd Year"
   },
   {
-    "name": "R.Vijaya Lakshmi",
-    "regno": "9924008125",
-    "department": "ECE",
-    "section": "D",
-    "mobile": "9949008125"
-  },
-  {
-    "name": "S.Aruna Devi",
-    "regno": "9925008008",
-    "department": "ECE",
-    "section": "A",
-    "mobile": "9840008008"
-  },
-  {
-    "name": "V.Raghu Nath reddy",
-    "regno": "99240041189",
+    "name": "Ch.RAMU",
+    "regno": "99250040131",
     "department": "CSE",
-    "section": "B",
-    "mobile": "9841041189"
+    "section": "S02",
+    "year": "2nd Year"
   },
   {
-    "name": "Guru Srinivas",
-    "regno": "99240041183",
+    "name": "K.TEJESH SATYA SAI MANI KRISHNA",
+    "regno": "99250040173",
     "department": "CSE",
-    "section": "C",
-    "mobile": "9848041183"
+    "section": "S12",
+    "year": "2nd Year"
   },
   {
-    "name": "Nethaji A",
-    "regno": "9924017095",
-    "department": "AI & DS",
-    "section": "D",
-    "mobile": "9866017095"
-  },
-  {
-    "name": "N.Aswin Reg.no.9924017020 9924017020klu@ac.in",
-    "regno": "9924017020",
-    "department": "AI & DS",
-    "section": "A",
-    "mobile": "9876017020"
-  },
-  {
-    "name": "M.Mohamed ibrahim",
-    "regno": "9924017080",
-    "department": "AI & DS",
-    "section": "B",
-    "mobile": "9885017080"
-  },
-  {
-    "name": "Shalavudeen M",
-    "regno": "9924017124",
-    "department": "AI & DS",
-    "section": "C",
-    "mobile": "9908017124"
-  },
-  {
-    "name": "Kancharla Vinay",
-    "regno": "99220041209",
+    "name": "K.SRISANTH VARMA",
+    "regno": "99250040216",
     "department": "CSE",
-    "section": "D",
-    "mobile": "9949041209"
+    "section": "S03",
+    "year": "2nd Year"
   },
   {
-    "name": "V Mukesh",
-    "regno": "99220040766",
+    "name": "K.SRIRAM",
+    "regno": "99250040171",
     "department": "CSE",
-    "section": "A",
-    "mobile": "9840040766"
-  },
-  {
-    "name": "P. Santhiya",
-    "regno": "9922008065",
-    "department": "ECE",
-    "section": "B",
-    "mobile": "9841008065"
-  },
-  {
-    "name": "Challa sai bharath",
-    "regno": "99240040868",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848040868"
-  },
-  {
-    "name": "Kota Venkateswarlu reddy",
-    "regno": "99240040082",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866040082"
-  },
-  {
-    "name": "Shailsh",
-    "regno": "99240040102",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9876040102"
-  },
-  {
-    "name": "Koduri chandu",
-    "regno": "99240040928",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9885040928"
-  },
-  {
-    "name": "PUVVADA UMA MAHESWARA RAO",
-    "regno": "9924005141",
-    "department": "IT",
-    "section": "C",
-    "mobile": "9908005141"
-  },
-  {
-    "name": "Putsala kumar kiran",
-    "regno": "99240040711",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949040711"
-  },
-  {
-    "name": "M thiyo philas",
-    "regno": "99240040149",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840040149"
-  },
-  {
-    "name": "Galemmagri vijay ramanatha reddy",
-    "regno": "9924005142",
-    "department": "IT",
-    "section": "B",
-    "mobile": "9841005142"
-  },
-  {
-    "name": "Patibandla srinivas",
-    "regno": "99240041235",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848041235"
-  },
-  {
-    "name": "Nagireddy venkata krishna teja",
-    "regno": "99240041053",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866041053"
+    "section": "S02",
+    "year": "2nd Year"
   },
   {
     "name": "BODEMMAGARI ARUN KUMAR REDDY",
     "regno": "99240040329",
     "department": "CSE",
-    "section": "A",
-    "mobile": "9876040329"
+    "section": "S03",
+    "year": "3rd Year"
   },
   {
-    "name": "P. Yaswanth kumar",
-    "regno": "99240041038",
+    "name": "AVULURI KONDANDA RAMI REDDY",
+    "regno": "99240041140",
     "department": "CSE",
-    "section": "B",
-    "mobile": "9885041038"
+    "section": "S14",
+    "year": "3rd Year"
   },
   {
-    "name": "Yogesh P",
-    "regno": "9924051056",
-    "department": "CSBS",
-    "section": "C",
-    "mobile": "9908051056"
+    "name": "ERIGINENI MANIDEEP",
+    "regno": "99240040467",
+    "department": "CSE",
+    "section": "S05",
+    "year": "3rd Year"
   },
   {
-    "name": "Pradeep S N",
-    "regno": "9924008130",
+    "name": "K.VENKATA PRADEEP",
+    "regno": "99240040950",
+    "department": "CSE",
+    "section": "S11",
+    "year": "3rd Year"
+  },
+  {
+    "name": "T.RAM PRASAD",
+    "regno": "99240040258",
+    "department": "CSE",
+    "section": "S02",
+    "year": "3rd Year"
+  },
+  {
+    "name": "K.VINAY DURGA",
+    "regno": "99240040260",
+    "department": "CSE",
+    "section": "S03",
+    "year": "3rd Year"
+  },
+  {
+    "name": "SINGAMSETTY V S S SUDHA RITESH",
+    "regno": "99240040188",
+    "department": "CSE",
+    "section": "S20",
+    "year": "3rd Year"
+  },
+  {
+    "name": "B.VIJAY SANKAR",
+    "regno": "99240040390",
+    "department": "CSE",
+    "section": "S04",
+    "year": "3rd Year"
+  },
+  {
+    "name": "K.BHUVANESWAR",
+    "regno": "99240040725",
+    "department": "CSE",
+    "section": "S08",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Yenibara Anoop Joel",
+    "regno": "99250040859",
+    "department": "CSE",
+    "section": "SPE",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Jangam Sai Kiran",
+    "regno": "99240040534",
+    "department": "CSE",
+    "section": "S06",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Unnam Lakshmi Lavanya",
+    "regno": "99240040531",
+    "department": "CSE",
+    "section": "S06",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Shreekanthachari R S",
+    "regno": "99240040171",
+    "department": "CSE",
+    "section": "S02",
+    "year": "3rd Year"
+  },
+  {
+    "name": "ERPINA HARSHA VARDHINI",
+    "regno": "99240041220",
+    "department": "CSE",
+    "section": "S17",
+    "year": "3rd Year"
+  },
+  {
+    "name": "PUTTABOINA VENKATA RAMANA",
+    "regno": "99240040153",
+    "department": "CSE",
+    "section": "S02",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Perla Chakritha",
+    "regno": "99250040858",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Leela Priyanka",
+    "regno": "99250040861",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Thrylokya",
+    "regno": "99250040843",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Sai Sachidhanandam R",
+    "regno": "99250040852",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Hrishob Pal",
+    "regno": "99240041395",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Uppala Sadvika",
+    "regno": "99240041410",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Yadalla Sreenija",
+    "regno": "99240041403",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "K.Jawahar Yadav",
+    "regno": "99250040159",
+    "department": "CSE",
+    "section": "S02",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Selvadhanush J",
+    "regno": "99240041376",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "SAI ABISHEK PRIYAN .S",
+    "regno": "99240041371",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Kaviraja M",
+    "regno": "99240041363",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Sachin M S",
+    "regno": "99240041396",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Ch.Dhanvanth sai",
+    "regno": "99250040138",
+    "department": "CSE",
+    "section": "S02",
+    "year": "2nd Year"
+  },
+  {
+    "name": "C SUMANTH REDDY",
+    "regno": "99250040154",
+    "department": "CSE",
+    "section": "S12",
+    "year": "2nd Year"
+  },
+  {
+    "name": "G.SANDEEP REDDY",
+    "regno": "99250040257",
+    "department": "CSE",
+    "section": "S12",
+    "year": "2nd Year"
+  },
+  {
+    "name": "ch.balaji",
+    "regno": "9925051018",
+    "department": "CSE",
+    "section": "S15",
+    "year": "2nd Year"
+  },
+  {
+    "name": "B.chaitanya naresh",
+    "regno": "99250040104",
+    "department": "CSE",
+    "section": "S02",
+    "year": "2nd Year"
+  },
+  {
+    "name": "p.dorababu",
+    "regno": "99250040559",
+    "department": "CSE",
+    "section": "S07",
+    "year": "2nd Year"
+  },
+  {
+    "name": "C.SAI PRATYUSHA",
+    "regno": "99250040160",
+    "department": "CSE",
+    "section": "S12",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Pachipala Seshank",
+    "regno": "9924005372",
     "department": "ECE",
-    "section": "D",
-    "mobile": "9949008130"
+    "section": "C",
+    "year": "3rd Year"
   },
   {
-    "name": "Vishnu G",
-    "regno": "9924008128",
+    "name": "Yemineni Ashok",
+    "regno": "99240040123",
+    "department": "CSE",
+    "section": "S06",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Priyamtha N",
+    "regno": "99240041398",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Gajula M V Nagasai",
+    "regno": "99240040043",
+    "department": "CSE",
+    "section": "S01",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Vemula Chenchu Naga Venkata Tharun Sai",
+    "regno": "9924008127",
+    "department": "IT",
+    "section": "B",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Divya S",
+    "regno": "9925008049",
+    "department": "IT",
+    "section": "B",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Santhosima S",
+    "regno": "9925008055",
+    "department": "IT",
+    "section": "B",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Kagitha Veera Venkata Sai Nagesh",
+    "regno": "99240040961",
+    "department": "CSE",
+    "section": "S12",
+    "year": "3rd Year"
+  },
+  {
+    "name": "NAGA HARSHITHA",
+    "regno": "99250040810",
+    "department": "CSE",
+    "section": "S10",
+    "year": "2nd Year"
+  },
+  {
+    "name": "Sanjai pandian A S",
+    "regno": "99240041374",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "K Lokesh Chowdary",
+    "regno": "99250040919",
+    "department": "CSE",
+    "section": "S11",
+    "year": "2nd Year"
+  },
+  {
+    "name": "P. Lakshmi Deepak",
+    "regno": "99250040511",
+    "department": "CSE",
+    "section": "S06",
+    "year": "2nd Year"
+  },
+  {
+    "name": "V.Sai Ganesh",
+    "regno": "99250040571",
+    "department": "CSE",
+    "section": "S07",
+    "year": "2nd Year"
+  },
+  {
+    "name": "G. Manoj Kumar",
+    "regno": "99250040261",
+    "department": "CSE",
+    "section": "S03",
+    "year": "2nd Year"
+  },
+  {
+    "name": "K. Bala Anjaneya Gangadhar",
+    "regno": "99240040254",
+    "department": "CSE",
+    "section": "S02",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Varkala Shiva Keshav Goud",
+    "regno": "99240041404",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Nagi Reddy Venkata Krishna teja",
+    "regno": "99240041053",
+    "department": "CSE",
+    "section": "S13",
+    "year": "3rd Year"
+  },
+  {
+    "name": "KOTAGIRI HARSHA VARDHAN",
+    "regno": "9924005089",
     "department": "ECE",
-    "section": "A",
-    "mobile": "9840008128"
+    "section": "G",
+    "year": "3rd Year"
   },
   {
-    "name": "Prakash K",
-    "regno": "9924008135",
+    "name": "GUDLA ESWAR REDDY",
+    "regno": "9924005339",
     "department": "ECE",
-    "section": "B",
-    "mobile": "9841008135"
+    "section": "G",
+    "year": "3rd Year"
   },
   {
-    "name": "katta harshvardhan",
-    "regno": "99240040998",
+    "name": "Patibandla Srinivas",
+    "regno": "99240041235",
     "department": "CSE",
-    "section": "C",
-    "mobile": "9848040998"
+    "section": "S20",
+    "year": "3rd Year"
   },
   {
-    "name": "kollapudi poorna chandra",
-    "regno": "99240041331",
+    "name": "Kota Venkateswarlu reddy",
+    "regno": "99240040082",
     "department": "CSE",
-    "section": "D",
-    "mobile": "9866041331"
+    "section": "S20",
+    "year": "3rd Year"
   },
   {
-    "name": "kollapudi pavan kalyan",
-    "regno": "9924005291",
-    "department": "IT",
-    "section": "A",
-    "mobile": "9876005291"
-  },
-  {
-    "name": "TADIBOINA AKHIL",
-    "regno": "99240040416",
+    "name": "KODURI CHANDU",
+    "regno": "99240040928",
     "department": "CSE",
-    "section": "B",
-    "mobile": "9885040416"
+    "section": "S20",
+    "year": "3rd Year"
   },
   {
-    "name": "M.vasantha kumar",
-    "regno": "9924019065",
-    "department": "IoT",
-    "section": "C",
-    "mobile": "9908019065"
-  },
-  {
-    "name": "S. Ramanathan",
-    "regno": "9924019046",
-    "department": "IoT",
-    "section": "D",
-    "mobile": "9949019046"
-  },
-  {
-    "name": "P.mareeswaran",
-    "regno": "9924019074",
-    "department": "IoT",
-    "section": "A",
-    "mobile": "9840019074"
-  },
-  {
-    "name": "M.kajini varman",
-    "regno": "9924019028",
-    "department": "IoT",
-    "section": "B",
-    "mobile": "9841019028"
-  },
-  {
-    "name": "Nantha kumar.T",
-    "regno": "9925037010",
-    "department": "Cyber Security",
-    "section": "C",
-    "mobile": "9848037010"
-  },
-  {
-    "name": "RITIK ANAND",
-    "regno": "9826037009",
-    "department": "EEE",
-    "section": "D",
-    "mobile": "9866037009"
-  },
-  {
-    "name": "Abhishek Kumar",
-    "regno": "9826037010",
-    "department": "Cyber Security",
-    "section": "A",
-    "mobile": "9876037010"
-  },
-  {
-    "name": "MADHUMEDHAN S D",
-    "regno": "9925037006",
-    "department": "Cyber Security",
-    "section": "B",
-    "mobile": "9885037006"
-  },
-  {
-    "name": "Ampolu Lakshmi Amarnadh",
-    "regno": "99240041242",
+    "name": "Putturu Raghunath",
+    "regno": "99240040164",
     "department": "CSE",
-    "section": "C",
-    "mobile": "9908041242"
+    "section": "S20",
+    "year": "3rd Year"
   },
   {
-    "name": "Thummala Kumar Reddy",
-    "regno": "99240041262",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949041262"
-  },
-  {
-    "name": "Dokala Lokesh Venkata Jayanthi Naidu",
-    "regno": "99240041411",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840041411"
-  },
-  {
-    "name": "Kota Sai Prasad",
-    "regno": "9924005455",
-    "department": "IT",
-    "section": "B",
-    "mobile": "9841005455"
-  },
-  {
-    "name": "MUTYALA VENKATA PRANAY",
-    "regno": "9924005317",
-    "department": "IT",
-    "section": "C",
-    "mobile": "9848005317"
-  },
-  {
-    "name": "MUNAGAPATI SHANMUKHA SAI GANESH",
-    "regno": "99240040288",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866040288"
-  },
-  {
-    "name": "A V PAVAN KALYAN",
-    "regno": "9924005130",
-    "department": "IT",
-    "section": "A",
-    "mobile": "9876005130"
-  },
-  {
-    "name": "E HARSHA VARDHAN GOWD",
-    "regno": "99240040176",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9885040176"
-  },
-  {
-    "name": "VIGNESH WARAN R",
-    "regno": "9924017149",
-    "department": "AI & DS",
-    "section": "C",
-    "mobile": "9908017149"
-  },
-  {
-    "name": "MAHARAJA M",
-    "regno": "9924017162",
-    "department": "AI & DS",
-    "section": "D",
-    "mobile": "9949017162"
-  },
-  {
-    "name": "MUTHUPANDI. M",
-    "regno": "9924017087",
-    "department": "AI & DS",
-    "section": "A",
-    "mobile": "9840017087"
-  },
-  {
-    "name": "JANAKIRAMAN R",
-    "regno": "9924017157",
-    "department": "AI & DS",
-    "section": "B",
-    "mobile": "9841017157"
-  },
-  {
-    "name": "K. Namasiavayam",
-    "regno": "9924037004",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848037004"
-  },
-  {
-    "name": "Aiden vinod",
-    "regno": "9924037001",
-    "department": "CIVIL",
-    "section": "D",
-    "mobile": "9866037001"
-  },
-  {
-    "name": "Solaman Shaji",
-    "regno": "9924037006",
-    "department": "Cyber Security",
-    "section": "A",
-    "mobile": "9876037006"
-  },
-  {
-    "name": "Nithinkumar",
-    "regno": "9825037007",
-    "department": "Cyber Security",
-    "section": "B",
-    "mobile": "9885037007"
-  },
-  {
-    "name": "ABHIJEET KUMAR",
-    "regno": "9825037011",
-    "department": "MECH",
-    "section": "C",
-    "mobile": "9908037011"
-  },
-  {
-    "name": "Akash Naik M",
-    "regno": "9825037004",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949037004"
-  },
-  {
-    "name": "Sushmitha.L",
-    "regno": "9825037010",
-    "department": "Cyber Security",
-    "section": "A",
-    "mobile": "9840037010"
-  },
-  {
-    "name": "Nandish Basayya Pujer",
-    "regno": "9825037009",
-    "department": "EEE",
-    "section": "B",
-    "mobile": "9841037009"
-  },
-  {
-    "name": "C .MADHUSUDHAN REDDY",
-    "regno": "99240040859",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848040859"
-  },
-  {
-    "name": "O. KALYAN RAJU",
-    "regno": "9924005330",
-    "department": "IT",
-    "section": "D",
-    "mobile": "9866005330"
-  },
-  {
-    "name": "G. AJAY KUMAR",
-    "regno": "9924005251",
-    "department": "IT",
-    "section": "A",
-    "mobile": "9876005251"
-  },
-  {
-    "name": "B .BALA VIGNESH NAYAK",
-    "regno": "9924005388",
-    "department": "IT",
-    "section": "B",
-    "mobile": "9885005388"
-  },
-  {
-    "name": "PEDDINENIKALVA GIRIDHAR REDDY",
-    "regno": "99240041274",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9908041274"
-  },
-  {
-    "name": "POLURI KRUSHITHA REDDY",
-    "regno": "99240041273",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949041273"
-  },
-  {
-    "name": "DHANIYA CHRISTY J",
-    "regno": "99240041280",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840041280"
-  },
-  {
-    "name": "SANJEEVI KUMAR S",
-    "regno": "9924008120",
-    "department": "ECE",
-    "section": "B",
-    "mobile": "9841008120"
-  },
-  {
-    "name": "P.Venkata karthik",
+    "name": "P venkata karthik",
     "regno": "99240040339",
     "department": "CSE",
-    "section": "C",
-    "mobile": "9848040339"
+    "section": "S03",
+    "year": "3rd Year"
   },
   {
-    "name": "Vennapusa rama venkata madhava reddy",
-    "regno": "99240041188",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866041188"
-  },
-  {
-    "name": "Thangalla palli sai krishna reddy",
-    "regno": "99240040293",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9876040293"
-  },
-  {
-    "name": "Yerla nikhil kumar",
-    "regno": "99240040336",
-    "department": "CSE",
+    "name": "NERLA ROHIT REDDY",
+    "regno": "9924008109",
+    "department": "IT",
     "section": "B",
-    "mobile": "9885040336"
+    "year": "3rd Year"
   },
   {
-    "name": "k siva charan",
-    "regno": "99240040383",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9908040383"
+    "name": "MUTHAKANI SIMHADRI",
+    "regno": "9924008108",
+    "department": "IT",
+    "section": "B",
+    "year": "3rd Year"
   },
   {
-    "name": "vasa Akshaya harshini",
-    "regno": "99240040590",
+    "name": "NARAKKAGARI NIRANJAN REDDY",
+    "regno": "99240040233",
     "department": "CSE",
-    "section": "D",
-    "mobile": "9949040590"
+    "section": "S02",
+    "year": "3rd Year"
   },
   {
-    "name": "a haswitha",
-    "regno": "99240040384",
+    "name": "VIPPARLA VENKATARAO",
+    "regno": "99240040930",
     "department": "CSE",
+    "section": "S11",
+    "year": "3rd Year"
+  },
+  {
+    "name": "CHANDRA GURUSANKAR",
+    "regno": "99240040515",
+    "department": "CSE",
+    "section": "S06",
+    "year": "3rd Year"
+  },
+  {
+    "name": "P.Hanshika",
+    "regno": "9924008113",
+    "department": "IT",
+    "section": "B",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Madepalli Ramkumar",
+    "regno": "9924008114",
+    "department": "IT",
+    "section": "B",
+    "year": "3rd Year"
+  },
+  {
+    "name": "ANUMANDLA ABHIRAM",
+    "regno": "99240040809",
+    "department": "CSE",
+    "section": "S10",
+    "year": "3rd Year"
+  },
+  {
+    "name": "THALLURI SAI JASWANTH",
+    "regno": "99240040904",
+    "department": "CSE",
+    "section": "S11",
+    "year": "3rd Year"
+  },
+  {
+    "name": "GANGINENI PUNEETH",
+    "regno": "99240040157",
+    "department": "CSE",
+    "section": "S02",
+    "year": "3rd Year"
+  },
+  {
+    "name": "KOLLE NAGENDRA BABU",
+    "regno": "99240040680",
+    "department": "CSE",
+    "section": "S08",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Shaik Mohammad Afrid",
+    "regno": "99240040708",
+    "department": "CSE",
+    "section": "S08",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Nagineedi Pavani",
+    "regno": "99240041061",
+    "department": "CSE",
+    "section": "S13",
+    "year": "3rd Year"
+  },
+  {
+    "name": "CHITIKELA .ANITHA",
+    "regno": "99240040034",
+    "department": "CSE",
+    "section": "S20",
+    "year": "3rd Year"
+  },
+  {
+    "name": "K P Uditha",
+    "regno": "99240040271",
+    "department": "CSE",
+    "section": "S20",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Chimthamreddy Jagadeeswari",
+    "regno": "99240040033",
+    "department": "CSE",
+    "section": "S01",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Munnangi Subhashini Reddy",
+    "regno": "9924008107",
+    "department": "IT",
+    "section": "B",
+    "year": "3rd Year"
+  },
+  {
+    "name": "JAKKIREDDY RAJASHEKHAR REDDY",
+    "regno": "9924005316",
+    "department": "ECE",
     "section": "A",
-    "mobile": "9840040384"
+    "year": "3rd Year"
   },
   {
-    "name": "y lakshmi durga",
+    "name": "Guda Kavya Reddy",
+    "regno": "99240040128",
+    "department": "CSE",
+    "section": "S01",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Yanamala Lakshmi Durga",
     "regno": "99240040098",
     "department": "CSE",
-    "section": "B",
-    "mobile": "9841040098"
+    "section": "S01",
+    "year": "3rd Year"
   },
   {
-    "name": "Yammanuru Harish Reddy",
-    "regno": "99240040240",
+    "name": "CHINTHALAPALLI GANGADHAR REDDY",
+    "regno": "99240040446",
     "department": "CSE",
-    "section": "C",
-    "mobile": "9848040240"
+    "section": "S05",
+    "year": "3rd Year"
   },
   {
-    "name": "Sandeep Sanapala",
-    "regno": "99240040161",
+    "name": "CHITYALA VISHNU VARDHAN REDDY",
+    "regno": "99240040445",
     "department": "CSE",
-    "section": "D",
-    "mobile": "9866040161"
+    "section": "S05",
+    "year": "3rd Year"
   },
   {
-    "name": "S Ramanadha Reddy",
-    "regno": "99240040160",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9876040160"
-  },
-  {
-    "name": "H.K.MAHESH",
-    "regno": "99240040241",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9885040241"
-  },
-  {
-    "name": "M Jyoshitha",
-    "regno": "9923005312",
-    "department": "IT",
-    "section": "C",
-    "mobile": "9908005312"
-  },
-  {
-    "name": "A Saniya reddy",
-    "regno": "9923005251",
-    "department": "IT",
-    "section": "D",
-    "mobile": "9949005251"
-  },
-  {
-    "name": "P Jenika",
-    "regno": "9923005240",
-    "department": "IT",
-    "section": "A",
-    "mobile": "9840005240"
-  },
-  {
-    "name": "S Vyshnavi",
-    "regno": "9923005291",
-    "department": "IT",
-    "section": "B",
-    "mobile": "9841005291"
-  },
-  {
-    "name": "Pathi Venkata Mahith Kumar",
-    "regno": "99240041064",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848041064"
-  },
-  {
-    "name": "Murakandi Kumarasree Chowdary",
-    "regno": "99240041067",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866041067"
-  },
-  {
-    "name": "Avula Akshith",
-    "regno": "99240041286",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9876041286"
-  },
-  {
-    "name": "Mutyala Sivakrishna",
-    "regno": "99240041054",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9885041054"
-  },
-  {
-    "name": "Bommidi Ganesh",
-    "regno": "9923005064",
-    "department": "IT",
-    "section": "C",
-    "mobile": "9908005064"
-  },
-  {
-    "name": "KATAMGARI PAVAN",
-    "regno": "9923005055",
-    "department": "IT",
-    "section": "D",
-    "mobile": "9949005055"
-  },
-  {
-    "name": "Munagala Prasanna Kumar",
-    "regno": "9923005176",
-    "department": "IT",
-    "section": "A",
-    "mobile": "9840005176"
-  },
-  {
-    "name": "Bandreddy Gangadhar",
-    "regno": "9923009003",
-    "department": "EEE",
-    "section": "B",
-    "mobile": "9841009003"
-  },
-  {
-    "name": "CHILIVERU HARSHITH",
-    "regno": "99240040213",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848040213"
-  },
-  {
-    "name": "Velmala Mourya Raj",
-    "regno": "99240040885",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866040885"
-  },
-  {
-    "name": "AMBU GOWTHAM REDDY",
-    "regno": "99240040187",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9876040187"
-  },
-  {
-    "name": "Abinaya Thendral M",
-    "regno": "99240040003",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9885040003"
-  },
-  {
-    "name": "P LIKITH RAJ",
-    "regno": "99240041007",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9908041007"
-  },
-  {
-    "name": "Posa Hemanth reddy",
-    "regno": "99240041127",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949041127"
-  },
-  {
-    "name": "E Pradeep",
-    "regno": "99240041116",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840041116"
-  },
-  {
-    "name": "Polepalli Mani Sree Chandu",
-    "regno": "99240041110",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9841041110"
-  },
-  {
-    "name": "Shankaranarayanan G",
-    "regno": "9924017125",
-    "department": "AI & DS",
-    "section": "C",
-    "mobile": "9848017125"
-  },
-  {
-    "name": "Boopathy Krishna P",
-    "regno": "9924017028",
-    "department": "AI & DS",
-    "section": "D",
-    "mobile": "9866017028"
-  },
-  {
-    "name": "Selva Athithan B J",
-    "regno": "9924017123",
-    "department": "AI & DS",
-    "section": "A",
-    "mobile": "9876017123"
-  },
-  {
-    "name": "Prabhakaran K",
-    "regno": "9924017101",
-    "department": "AI & DS",
-    "section": "B",
-    "mobile": "9885017101"
-  },
-  {
-    "name": "Padamati Sai Ganesh Yadav",
-    "regno": "99240041275",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9908041275"
-  },
-  {
-    "name": "Poluru vivek",
-    "regno": "99240041271",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9949041271"
-  },
-  {
-    "name": "Rayapudi naga sai Lakshmi Koushik",
-    "regno": "99240041277",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9840041277"
-  },
-  {
-    "name": "Tubbati Venkata Mohan Sairam",
-    "regno": "99240041261",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9841041261"
-  },
-  {
-    "name": "Besta Abhinav Krishna",
-    "regno": "9923005006",
-    "department": "IT",
-    "section": "C",
-    "mobile": "9848005006"
-  },
-  {
-    "name": "V. Rajesh",
-    "regno": "9923005144",
-    "department": "IT",
-    "section": "D",
-    "mobile": "9866005144"
-  },
-  {
-    "name": "V. Pavan",
-    "regno": "9923005139",
-    "department": "IT",
-    "section": "A",
-    "mobile": "9876005139"
-  },
-  {
-    "name": "G. Ravi",
-    "regno": "9923005314",
-    "department": "IT",
-    "section": "B",
-    "mobile": "9885005314"
-  },
-  {
-    "name": "Meganathan S",
-    "regno": "9924018058",
-    "department": "AI & ML",
-    "section": "C",
-    "mobile": "9908018058"
-  },
-  {
-    "name": "Sridhar T",
-    "regno": "9924018083",
-    "department": "AI & ML",
-    "section": "D",
-    "mobile": "9949018083"
-  },
-  {
-    "name": "Saran G",
-    "regno": "9924018074",
-    "department": "AI & ML",
-    "section": "A",
-    "mobile": "9840018074"
-  },
-  {
-    "name": "Pradeepan M",
-    "regno": "9924018064",
-    "department": "AI & ML",
-    "section": "B",
-    "mobile": "9841018064"
-  },
-  {
-    "name": "P ABHISHEK",
-    "regno": "9923005113",
-    "department": "IT",
-    "section": "C",
-    "mobile": "9848005113"
-  },
-  {
-    "name": "K PAVAN KUMAR",
-    "regno": "9923005098",
-    "department": "IT",
-    "section": "D",
-    "mobile": "9866005098"
-  },
-  {
-    "name": "K NETHRA NANDU",
-    "regno": "9923005021",
-    "department": "IT",
-    "section": "A",
-    "mobile": "9876005021"
-  },
-  {
-    "name": "L SREE HARI",
-    "regno": "9824005005",
-    "department": "IT",
-    "section": "B",
-    "mobile": "9885005005"
-  },
-  {
-    "name": "Kumar sashank",
-    "regno": "9923005244",
-    "department": "IT",
-    "section": "C",
-    "mobile": "9908005244"
-  },
-  {
-    "name": "K.Hareesh",
-    "regno": "9923005093",
-    "department": "IT",
-    "section": "D",
-    "mobile": "9949005093"
-  },
-  {
-    "name": "P .N.B.KARTHEEK",
-    "regno": "9923005118",
-    "department": "IT",
-    "section": "A",
-    "mobile": "9840005118"
-  },
-  {
-    "name": "G SAINATH REDDY",
-    "regno": "99230040546",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9841040546"
-  },
-  {
-    "name": "SHAIK SALMAAN FARIS",
-    "regno": "99240041250",
-    "department": "CSE",
-    "section": "C",
-    "mobile": "9848041250"
-  },
-  {
-    "name": "LINGAREDDY GARI MAHESHWARA REDDY",
-    "regno": "99240041355",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866041355"
-  },
-  {
-    "name": "MANDALA THANUJ KUMAR",
-    "regno": "99240041249",
-    "department": "CSE",
-    "section": "A",
-    "mobile": "9876041249"
-  },
-  {
-    "name": "SHAIK SALEEM",
-    "regno": "99240040762",
-    "department": "CSE",
-    "section": "B",
-    "mobile": "9885040762"
-  },
-  {
-    "name": "R Ariraman",
-    "regno": "9924018011",
-    "department": "MECH",
-    "section": "C",
-    "mobile": "9908018011"
-  },
-  {
-    "name": "Abishek a",
-    "regno": "9924018001",
-    "department": "CIVIL",
-    "section": "D",
-    "mobile": "9949018001"
-  },
-  {
-    "name": "m aathi vigenesh",
-    "regno": "9924018120",
-    "department": "AI & ML",
-    "section": "A",
-    "mobile": "9840018120"
-  },
-  {
-    "name": "ruba pradeep",
-    "regno": "9924018068",
-    "department": "AI & ML",
-    "section": "B",
-    "mobile": "9841018068"
-  },
-  {
-    "name": "Jeyavarshini J",
-    "regno": "9925009070",
-    "department": "EEE",
-    "section": "C",
-    "mobile": "9848009070"
-  },
-  {
-    "name": "HARSHINI S",
-    "regno": "9925151054",
-    "department": "CSE",
-    "section": "D",
-    "mobile": "9866151054"
-  },
-  {
-    "name": "Lanzo Silva",
-    "regno": "9925009023",
-    "department": "EEE",
-    "section": "A",
-    "mobile": "9876009023"
-  },
-  {
-    "name": "Bharath R",
-    "regno": "9925008074",
+    "name": "U.Vyshnavi",
+    "regno": "9924005299",
     "department": "ECE",
     "section": "B",
-    "mobile": "9885008074"
+    "year": "3rd Year"
+  },
+  {
+    "name": "K Ajay Kumar",
+    "regno": "99240040979",
+    "department": "CSE",
+    "section": "S12",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Akula pavan sai veerendra",
+    "regno": "99240040001",
+    "department": "CSE",
+    "section": "S12",
+    "year": "3rd Year"
+  },
+  {
+    "name": "k Tejaswi",
+    "regno": "99240040978",
+    "department": "CSE",
+    "section": "S12",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Kanagala Deepthi",
+    "regno": "99230040590",
+    "department": "CSE",
+    "section": "S8",
+    "year": "4th Year"
+  },
+  {
+    "name": "Mutyala Rohith Venkata Satya Koushik",
+    "regno": "99230040685",
+    "department": "CSE",
+    "section": "S9",
+    "year": "4th Year"
+  },
+  {
+    "name": "Movva Karthika",
+    "regno": "99230041292",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "4th Year"
+  },
+  {
+    "name": "Pranava Selva",
+    "regno": "99230041283",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "4th Year"
+  },
+  {
+    "name": "Poluri Venkata Raghava Koundinya",
+    "regno": "99240041361",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Motupalli Abhi Sai Ram",
+    "regno": "99240041359",
+    "department": "CSE",
+    "section": "KALVIUM",
+    "year": "3rd Year"
   }
 ]

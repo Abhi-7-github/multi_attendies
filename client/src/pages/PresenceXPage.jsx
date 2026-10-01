@@ -137,7 +137,7 @@ export default function PresenceXPage() {
 
   const copyTicketDetails = () => {
     if (!student) return;
-    const text = `PresenceX Check-in Pass\nName: ${student.name}\nReg No: ${student.regno}\nDepartment: ${student.department || 'N/A'}\nSection: ${student.section || 'N/A'}\nMobile: ${student.mobile || student.mobileNumber || 'N/A'}\nTime: ${timestamp}`;
+    const text = `PresenceX Check-in Pass\nName: ${student.name}\nReg No: ${student.regno}\nDepartment: ${student.department || 'N/A'}\nSection: ${student.section || 'N/A'}${student.year ? `\nYear: ${student.year}` : ''}\nTime: ${timestamp}`;
     navigator.clipboard.writeText(text);
     setCopied(true);
     setTimeout(() => setCopied(false), 2500);
@@ -317,12 +317,14 @@ export default function PresenceXPage() {
                     </div>
                     <div className="data-row">
                       <span className="data-label">Section</span>
-                      <span className="data-value">Section {student.section || 'A'}</span>
+                      <span className="data-value">{student.section ? `Section ${student.section}` : 'N/A'}</span>
                     </div>
-                    <div className="data-row">
-                      <span className="data-label">Mobile Number</span>
-                      <span className="data-value font-mono">{student.mobile || student.mobileNumber || 'N/A'}</span>
-                    </div>
+                    {student.year && (
+                      <div className="data-row">
+                        <span className="data-label">Year</span>
+                        <span className="data-value">{student.year}</span>
+                      </div>
+                    )}
                     <div className="data-row">
                       <span className="data-label">Registration ID</span>
                       <span className="data-value font-mono">{student.regno}</span>
@@ -386,6 +388,12 @@ export default function PresenceXPage() {
                         <span className="docket-k">Section</span>
                         <span className="docket-v">{student?.section ? `Section ${student.section}` : 'N/A'}</span>
                       </div>
+                      {student?.year && (
+                        <div className="docket-item">
+                          <span className="docket-k">Year</span>
+                          <span className="docket-v">{student.year}</span>
+                        </div>
+                      )}
                       <div className="docket-item">
                         <span className="docket-k">Time Recorded</span>
                         <span className="docket-v font-mono">{timestamp || 'Just now'}</span>
