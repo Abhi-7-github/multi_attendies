@@ -8,15 +8,20 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// CORS configuration - allow localhost and 127.0.0.1 on any local port
-const allowedOrigins = (process.env.ALLOWED_ORIGINS || '').split(',').map(origin => origin.trim());
+// CORS configuration - allow configured origins, vercel, localhost, and 127.0.0.1
+const rawAllowedOrigins = process.env.ALLOWED_ORIGINS || '';
+const allowedOrigins = rawAllowedOrigins.split(',').map(origin => origin.trim()).filter(Boolean);
+
 app.use(cors({
   origin: (origin, callback) => {
     if (
       !origin ||
+      allowedOrigins.includes('*') ||
+      allowedOrigins.length === 0 ||
       allowedOrigins.includes(origin) ||
       origin.startsWith('http://localhost:') ||
-      origin.startsWith('http://127.0.0.1:')
+      origin.startsWith('http://127.0.0.1:') ||
+      origin.endsWith('.vercel.app')
     ) {
       callback(null, true);
     } else {
@@ -25,7 +30,7 @@ app.use(cors({
   },
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'x-admin-key'],
 }));
 
 // Security headers
