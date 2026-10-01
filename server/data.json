@@ -6,7 +6,6 @@
     "section": "D",
     "year": "3rd Year"
   },
-  
   {
     "name": "Anchal Singh",
     "regno": "98250040004",
@@ -464,7 +463,7 @@
   },
   {
     "name": "RAVI RANJAN",
-    "regno": "9924004056",
+    "regno": "99240040256",
     "department": "Btech Cse(Aiml)",
     "section": "24S02",
     "year": "3rd Year"
@@ -568,7 +567,7 @@
     "year": "3rd Year"
   },
   {
-    "name": "AVULURI KONDANDA RAMI REDDY",
+    "name": "Aluluri Kodanda rami Reddy",
     "regno": "99240041140",
     "department": "CSE",
     "section": "S14",
@@ -603,7 +602,7 @@
     "year": "3rd Year"
   },
   {
-    "name": "SINGAMSETTY V S S SUDHA RITESH",
+    "name": "SINGAMSETTY V S S SUDHA RITHESH",
     "regno": "99240040188",
     "department": "CSE",
     "section": "S20",
@@ -800,7 +799,7 @@
   },
   {
     "name": "Pachipala Seshank",
-    "regno": "9924005372",
+    "regno": "9924005327",
     "department": "ECE",
     "section": "C",
     "year": "3rd Year"
@@ -834,7 +833,7 @@
     "year": "3rd Year"
   },
   {
-    "name": "Divya S",
+    "name": "Dhivya S",
     "regno": "9925008049",
     "department": "IT",
     "section": "B",
@@ -855,7 +854,7 @@
     "year": "3rd Year"
   },
   {
-    "name": "NAGA HARSHITHA",
+    "name": "Lakkineni Naga Harshitha ",
     "regno": "99250040810",
     "department": "CSE",
     "section": "S10",
@@ -967,7 +966,7 @@
     "year": "3rd Year"
   },
   {
-    "name": "NERLA ROHIT REDDY",
+    "name": "NERLA ROHITH REDDY",
     "regno": "9924008109",
     "department": "IT",
     "section": "B",
@@ -1188,6 +1187,13 @@
     "regno": "99240041359",
     "department": "CSE",
     "section": "KALVIUM",
+    "year": "3rd Year"
+  },
+  {
+    "name": "Duddela Venkata Naga Adithya Reddy",
+    "regno": "9924005381",
+    "department": "ECE",
+    "section": "D",
     "year": "3rd Year"
   }
 ]
