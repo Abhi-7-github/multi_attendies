@@ -2,10 +2,6 @@ const API_BASE_URL = (import.meta.env.VITE_API_BASE_URL || 'http://localhost:500
 
 export const SERVERS = {
   apiBaseUrl: API_BASE_URL,
-  engine: import.meta.env.VITE_ENGINE_SERVER_URL || 'http://localhost:5000',
-  server1: import.meta.env.VITE_NORMAL_SERVER_1_URL || 'http://localhost:5001',
-  server2: import.meta.env.VITE_NORMAL_SERVER_2_URL || 'http://localhost:5002',
-  server3: import.meta.env.VITE_NORMAL_SERVER_3_URL || 'http://localhost:5003',
 };
 
 export const presenceAPI = {

@@ -21,12 +21,6 @@ export default function AdminLogin({ onLogin }) {
       setLoading(true);
       setError('');
 
-      const clientEnvKey = import.meta.env.VITE_ADMIN_KEY;
-      if (clientEnvKey && clientEnvKey.trim() === cleanKey) {
-        onLogin(cleanKey);
-        return;
-      }
-
       const result = await presenceAPI.loginAdmin(cleanKey);
       if (result.success) {
         onLogin(cleanKey);
