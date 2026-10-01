@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Editorial Palette:
+     PARIS: #4b535a
+     LATTE: #88817a
+     CLAPPER: #fcfcf2
+     DAYOFF: #a3a5a4
+     FRIENDSHIP: #eddec8
+  */
+  --color-clapper: #fcfcf2;       /* Canvas & Primary Viewport */
+  --color-friendship: #eddec8;    /* Secondary Surfaces, Cards, Dockets */
+  --color-friendship-subtle: #f6efe3;
+  --color-dayoff: #a3a5a4;        /* Borders, Dividers, Muted Details */
+  --color-latte: #88817a;         /* Warm Earthy Accent, Tags, Stamps */
+  --color-paris: #4b535a;         /* PRIMARY COLOR & Typography */
+  --color-paris-dark: #373e44;
+
+  /* Aliases for backwards-compatible semantic mapping */
+  --bg-floral-white: var(--color-clapper);
+  --canvas-white: var(--color-clapper);
+  --surface-bone: var(--color-friendship);
+  --surface-bone-subtle: var(--color-friendship-subtle);
+  --color-olive: var(--color-dayoff);
+  --color-olive-dark: var(--color-latte);
+  --color-smoky-black: var(--color-paris);
+  --color-charcoal: var(--color-paris);
+  --color-mocha: var(--color-paris);
+  --color-milk: var(--color-clapper);
+  --color-oat: var(--color-friendship);
+  --color-taupe: var(--color-dayoff);
+
+  /* Primary action tokens */
+  --primary-color: var(--color-paris);
+  --primary-hover: var(--color-paris-dark);
+  --border-color: var(--color-dayoff);
+
+  /* Typography */
+  --font-serif: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+  /* Base settings */
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--color-paris);
+  background-color: var(--color-clapper);
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  width: 100%;
+  min-height: 100%;
+  background-color: var(--color-clapper);
+  color: var(--color-paris);
+  scroll-behavior: smooth;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--color-clapper);
+  color: var(--color-paris);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--color-clapper);
+}
+
+/* Accessibility & Focus States */
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--color-paris);
+  outline-offset: 2px;
+}
+
+::selection {
+  background-color: var(--color-friendship);
+  color: var(--color-paris);
+}
